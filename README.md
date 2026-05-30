@@ -93,15 +93,15 @@ src/
 * `develop`: 개발 중인 코드 (PR 대상)
 
 **📌 브랜치 명명 규칙: `타입/기능명_작성자`**
-누가 작업 중인지 명확히 알기 위해 **기능명 뒤에 작성자 이름(이니셜)**을 붙입니다.
+누가 작업 중인지 명확히 알기 위해 **기능명 뒤에 작성자 이름**을 붙입니다.
 
 | 타입 | 설명 | 사용 예시 |
 | :--- | :--- | :--- |
-| `feat` | 새로운 기능 추가 | `feat/login_Elirc(본인 닉네임)` |
-| `fix` | 버그 수정 | `fix/matching-error_Elirc(본인 닉네임)` |
-| `design` | CSS 등 스타일 변경 | `design/main-color_Elirc(본인 닉네임)` |
-| `refactor` | 코드 리팩토링 | `refactor/api-logic_Elirc(본인 닉네임)` |
-| `docs` | 문서 수정 | `docs/readme_Elirc(본인 닉네임)` |
+| `feat` | 새로운 기능 추가 | `feat/login_Minsik(본인 이름)` |
+| `fix` | 버그 수정 | `fix/matching-error_Minsik(본인 이름)` |
+| `design` | CSS 등 스타일 변경 | `design/main-color_Minsik(본인 이름)` |
+| `refactor` | 코드 리팩토링 | `refactor/api-logic_Minsik(본인 이름)` |
+| `docs` | 문서 수정 | `docs/readme_Minsik(본인 이름)` |
 
 ### 2. Commit Convention
 커밋 메시지는 **Conventional Commits** 규칙을 따릅니다.
