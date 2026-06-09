@@ -35,8 +35,8 @@ node -v
 
 ### 1. 프로젝트 클론
 ```bash
-git clone git@github.com:Playproof-Umc/Playproof-Frontend.git
-cd Playproof-Frontend
+git clone git@github.com:el-dmu/Expo2026-Front.git
+cd 파일이름 아직 미정입니다.
 ```
 
 ### 2. 패키지 설치
@@ -98,7 +98,7 @@ src/
 | 타입 | 설명 | 사용 예시 |
 | :--- | :--- | :--- |
 | `feat` | 새로운 기능 추가 | `feat/login_Minsik(본인 이름)` |
-| `fix` | 버그 수정 | `fix/matching-error_Minsik(본인 이름)` |
+| `fix` | 버그 수정 | `fix/home-error_Minsik(본인 이름)` |
 | `design` | CSS 등 스타일 변경 | `design/main-color_Minsik(본인 이름)` |
 | `refactor` | 코드 리팩토링 | `refactor/api-logic_Minsik(본인 이름)` |
 | `docs` | 문서 수정 | `docs/readme_Minsik(본인 이름)` |
